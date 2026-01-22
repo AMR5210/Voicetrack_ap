@@ -1,0 +1,5 @@
+/backend/api/__pycache__
+/backend/staticfiles
+/backend/voicetrack_backend/__pycache__
+/backend/api/utils/__pycache__
+/backend/api/migrations/__pycache__

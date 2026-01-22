@@ -1,0 +1,36 @@
+# Django Backend Requirements
+
+# Core Django
+Django>=4.2,<5.0
+djangorestframework>=3.14.0
+djangorestframework-simplejwt>=5.3.0
+
+# Database
+psycopg2-binary>=2.9.9
+
+# GCP Integration
+google-cloud-storage>=2.10.0
+google-auth>=2.23.0
+django-storages[google]>=1.14.0
+
+# Audio Processing
+librosa>=0.10.1
+soundfile>=0.12.1
+numpy>=1.24.0,<2.0.0
+scipy>=1.10.0
+
+# CORS handling
+django-cors-headers>=4.3.0
+
+# Environment variables
+python-decouple>=3.8
+
+# API Documentation
+drf-spectacular>=0.27.0
+
+# WSGI server for production
+gunicorn>=21.2.0
+
+# Utilities
+pillow>=10.0.0
+python-dateutil>=2.8.2
