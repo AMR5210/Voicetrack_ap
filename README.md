@@ -4,9 +4,11 @@ A full-stack mobile application for tracking vocal health and speech patterns us
 
 ## 🚀 Live Demo
 
-- **API Base URL:** https://voicetrack-app.ue.r.appspot.com/api/
-- **API Documentation:** https://voicetrack-app.ue.r.appspot.com/api/docs/
-- **Admin Panel:** https://voicetrack-app.ue.r.appspot.com/admin/
+> ⚠️ **Note:** The live demo links below are currently inactive due to exhausted Google Cloud Platform free tier credits. Please refer to the local setup instructions to run the application.
+
+- **API Base URL:** `https://voicetrack-app.ue.r.appspot.com/api/`
+- **API Documentation:** `https://voicetrack-app.ue.r.appspot.com/api/docs/`
+- **Admin Panel:** `https://voicetrack-app.ue.r.appspot.com/admin/`
 
 ## 🎯 Project Overview
 
